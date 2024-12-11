@@ -1,4 +1,4 @@
-# VintedBot
+# VinMonitor
 A C# Software which provides an interface to display Vinted announces searched by the user using Vinted API.
 It allows for searches with keywords such as brand, pricerange, or condition of the item through the whole Vinted website.
 An automated mode is built in : the user can set the delay within each search is refreshed.
