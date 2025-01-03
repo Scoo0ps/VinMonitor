@@ -1,6 +1,6 @@
 # VinMonitor
 A C# Software which provides an interface to display Vinted announces searched by the user using Vinted API.
-VinMonitor help the user to be quicker than other users by loading new announces slightly before the Vinted website. 
+VinMonitor helps the user be faster than others by loading new announcements slightly before they appear on the Vinted website. 
 
 Features : searches with keywords such as brand, pricerange, or condition of the item through the whole Vinted website.
 
